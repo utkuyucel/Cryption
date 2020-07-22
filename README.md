@@ -1,2 +1,2 @@
 # Cryption
- Crytion stuff
+ Cryption stuff
