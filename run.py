@@ -9,7 +9,6 @@ class Engine:
 		self.input_key_new = ""
 		self.letters = string.ascii_letters
 
-
 	def _do(self):
 
 		for i in self.input_key:
