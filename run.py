@@ -45,7 +45,7 @@ class Engine:
 			else:
 				print("Invalid option.")
 
-
-app = Engine()
-app.run()
+if __name__ == "__main__":
+    app = Engine()
+    app.run()
 
